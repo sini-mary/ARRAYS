@@ -9,8 +9,8 @@ fun main(){
 
  }
 fun fruits(){
-    var names= arrayOf("Simiyu","Joan","Angela","Brittany")
-    println(names)
+    var names= arrayOf("Papaya","Mango","Watermelon", "Orange")
+    println(names.contentToString())
 
 
 }
